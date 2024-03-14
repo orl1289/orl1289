@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Orlando</h1>
-<h3 align="center">I'm an enginner interested in sustainability, and passionate data scientist apprentice from Costa Rica. Currently Madrid is my city.</h3>
+<h3 align="center">I'm an enginner interested in green energy, sustainability, technology and the interaction of all these areas towards builduing a better futuire. I'm a passionate data scientist apprentice from Costa Rica. Currently Madrid is my city.</h3>
 
 - 👨‍💻 All of my curriculum is available at [orlandomatamonge.com](orlandomatamonge.com)
 
